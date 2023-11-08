@@ -1,49 +1,49 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "userId": 23,
-            "title": "json-server",
-            "body": "something new",
-            "author": "RahulB"
-        },
-        {
-            "id": 2,
-            "userId": 42,
-            "title": "Redux Toolkit",
-            "body": "state management made easy",
-            "author": "JohnDoe"
-        },
-        {
-            "id": 3,
-            "userId": 15,
-            "title": "React Components",
-            "body": "building reusable UI elements",
-            "author": "JaneSmith"
-        },
-        {
-            "id": 4,
-            "userId": 7,
-            "title": "JavaScript Promises",
-            "body": "handling asynchronous operations",
-            "author": "AliceJohnson"
-        },
-        {
-            "id": 5,
-            "userId": 31,
-            "title": "Node.js Express",
-            "body": "creating RESTful APIs",
-            "author": "BobAnderson"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "Jon Doe"
+  "posts": [
+    {
+      "id": 1,
+      "userId": 23,
+      "title": "json-server",
+      "body": "Server without Node.js",
+      "author": "RahulB"
+    },
+    {
+      "id": 2,
+      "userId": 42,
+      "title": "Redux Toolkit",
+      "body": "state management made easy",
+      "author": "JohnDoe"
+    },
+    {
+      "title": "Us me Kahan Kahan gaye hain",
+      "body": "Bahut Jagah gaya hun",
+      "id": 2.2179176682412427,
+      "userId": 752.7948269834579,
+      "author": "Bhupendra Jogi"
+    },
+    {
+      "title": "So beautiful, So elegant",
+      "body": "Just Looking like a Wow",
+      "id": 18.28690270079003,
+      "userId": 160.77089200126582,
+      "author": "Bhupendra Jogi"
+    },
+    {
+      "title": "khane me kya aacha lagta hai",
+      "body": "aayein",
+      "id": 51.23199085184695,
+      "userId": 448.51392440548386,
+      "author": "Bhupendra Jogi"
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Jon Doe"
+  }
 }
