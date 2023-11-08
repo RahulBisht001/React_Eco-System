@@ -1,0 +1,49 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "userId": 23,
+            "title": "json-server",
+            "body": "something new",
+            "author": "RahulB"
+        },
+        {
+            "id": 2,
+            "userId": 42,
+            "title": "Redux Toolkit",
+            "body": "state management made easy",
+            "author": "JohnDoe"
+        },
+        {
+            "id": 3,
+            "userId": 15,
+            "title": "React Components",
+            "body": "building reusable UI elements",
+            "author": "JaneSmith"
+        },
+        {
+            "id": 4,
+            "userId": 7,
+            "title": "JavaScript Promises",
+            "body": "handling asynchronous operations",
+            "author": "AliceJohnson"
+        },
+        {
+            "id": 5,
+            "userId": 31,
+            "title": "Node.js Express",
+            "body": "creating RESTful APIs",
+            "author": "BobAnderson"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "Jon Doe"
+    }
+}
